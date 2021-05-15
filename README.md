@@ -1,5 +1,5 @@
 # Ski-Resort-Webscraping-Exercise
-Convert website information on PA ski resorts into a dictionary for analysis.
+Convert website information on ski resort terrain into a dictionary for analysis.
 
 #### Class
 CS 5010 - First semester course for University of Virginia MS in Data Science
