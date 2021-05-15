@@ -8,5 +8,9 @@ CS 5010 - First semester course for University of Virginia MS in Data Science
 Tool to classify resorts based on skier/boarder abilities and interests
 
 #### Repo Contents
-- Report
+- Report 
 - Code
+
+#### Website analyzed
+https://www.onthesnow.com/
+
