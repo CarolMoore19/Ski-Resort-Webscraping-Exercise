@@ -7,18 +7,6 @@
 #Resources:
 #"Pennsylvania Snow Report," On the Snow (website)
 #    https://www.onthesnow.com/pennsylvania/skireport.html
-#Various resort web pages, On the Snow (website)
-#"Implementing Web Scraping in Python with BeautifulSoup" Geeks for Geeks, Last Updated 20 Aug, 2020
-#    https://www.geeksforgeeks.org/implementing-web-scraping-python-beautiful-soup/
-#"Removing Numbers from a String", Stack Overflow,
-#    https://stackoverflow.com/questions/12851791/removing-numbers-from-string"
-#"Beautiful Soup Documentation," Crummy.Com
-#    https://www.crummy.com/software/BeautifulSoup/bs4/doc/index.html?highlight=row
-#Pandas Number Of Rows – 6 Methods, Data Independent, 14 Sept. 2020, 
-#    https://www.dataindependent.com/pandas/pandas-number-of-rows/
-#Pandas Documentation, “pandas.DataFrame.drop”, documentation.  
-#    https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.drop.html#pandas-dataframe-drop
-
 
 import requests 
 from bs4 import BeautifulSoup 
