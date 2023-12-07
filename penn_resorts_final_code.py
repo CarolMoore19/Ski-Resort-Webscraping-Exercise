@@ -116,7 +116,7 @@ def runavgs(df):
     
 runavgs(df)  
 
-#Classify resorts
+#Characterize resorts
 def most_terrainparks(df):
     df['max_parks']=df['TerrainParks'].max()
     datamax=df[(df['TerrainParks'] == df['max_parks'])]
